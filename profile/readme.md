@@ -68,7 +68,7 @@ Let’s build something amazing together!
 
 ## 🤝 Join Us
 
-We’re always on the lookout for talented individuals to join our team. If you’re passionate about technology and innovation, check out our [careers page](https://www.halfware.com/careers).
+We’re always on the lookout for talented individuals to join our team. If you’re passionate about technology and innovation, check out our [careers page](https://half-ware.com/).
 
 ---
 
