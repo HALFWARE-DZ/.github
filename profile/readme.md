@@ -1,6 +1,6 @@
 # Welcome to Halfware IT Solutions
 
-![Halfware Logo](https://github.com/user-attachments/assets/3e2e1ae8-b9eb-47f7-b738-82f7411fc2f3)  
+![Halfware Logo](https://github.com/user-attachments/assets/e4c798dc-a4df-4937-b7f4-7590f8aacab8)  
 *Innovative Solutions for Modern Businesses*
 
 ## 🚀 About Us
