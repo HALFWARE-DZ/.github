@@ -57,10 +57,10 @@ We work with a wide range of industries, offering a personalized approach to mee
 Interested in working with us or learning more about what we can do for your business?  
 Feel free to get in touch with us!
 
-- **Website**: [halfware website](https://half-ware.com/)
-- **Email**: info@halfware.com
+- **Website**: [Our Website](https://half-ware.com/)
+- **Email**: contact@half-ware.com
 - **Phone**: +123-456-7890
-- **LinkedIn**: [Follow us on LinkedIn](https://www.linkedin.com)
+- **LinkedIn**: [Follow us on LinkedIn](https://www.linkedin.com/company/half-ware/about/)
 
 Let’s build something amazing together!
 
